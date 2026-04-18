@@ -1,5 +1,3 @@
-= Todo lo que necesitas saber sobre la pérdida de grasa
-Chris Aceto
 :doctype: book
 :toc: macro
 :toc-title: ÍNDICE DE CONTENIDOS
