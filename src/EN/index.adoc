@@ -5,6 +5,8 @@ Chris Aceto
 :toc-title: TABLE OF CONTENTS
 :toclevels: 2
 :sectnums:
+:front-cover-image: image:../../imgs/cover.png[background,width=100%,height=100%]
+:pdf-page-size: A4
 
 toc::[]
 
