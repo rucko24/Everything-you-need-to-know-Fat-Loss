@@ -1,5 +1,7 @@
 == Type of Calories
 
+:icons: font
+
 Calories are derived from foods and there are three types or sub groups of calories. They are carbohydrates, proteins and fat.
 
 Carbohydrates are derived from non animal foods. Examples of healthier carbohydrates include rice, pasta, beans, breads, potatoes, yams and fruit. Other carbohydrates, sometimes called "manufactured carbs" include pretzels, low fat cakes, cookies and related items. Of course, desserts are full of carbohydrates found in the flour and sugar and, in most cases, they're loaded with fat. For our purpose, we're trying to differentiate, "what's a pure carbohydrate".
@@ -49,3 +51,24 @@ image::../../imgs/Tissue-loss-associated-with-low-protein-low-calorie-instake.pn
 While carbohydrates release insulin, the sugar storing hormone, proteins release both insulin and glucagon,
 with glucagon being the more dominant of the two. Thus, from a hormonal point of view, we can assume carbs have a greater
 potential to store or stimulate the accumulation of body fat because carbohydrates exclusively kick up insulin levels which can effect the storage of carbs as not only muscle and liver glycogen, but body fat. On the other hand, protein tends to kick up glucagon levels. The benefit of glucagon? It can off set the fat storing potential of high insulin levels and it has the potential to stimulate the fat burning cycle within the body by liberating fatty acids from fat cells. Protein also is calorically inferior to carbs and dietary fat. Simply, the body is less efficient in abstracting 100% of the calories found within protein foods than it is from abstracting energy from carbohydrates or dietary fat. When you eat 100 calories of dietary fat, say a tablespoon of butter, the body will ultimately "gain access" to 97 of those calories as it is efficient in breaking down fats and using them as fuel. With carbohydrates, the body is a little less efficient. For every 100 calories you eat, the body will access roughly 88-90 of them. The other 10-12 calories are "burned away" in the process of breaking down the food. Since breaking down carbohydrate foods "costs" energy, we can say there is a small increase in metabolism that comes from eating. With dietary protein, the body is rather inefficient in obtaining 100% of the calories found within the protein. For example, when you eat a chicken breast that yields 200 calories, reality is, the body is roughly 80% effective in "accessing" all 200 calories. Instead, only 80% of the total 200 calories is accessible. Therefore, your 200 calorie chicken breast ultimately yields 160 calories.
+
+Where does the other 40 calories go? They're "wasted" or burned in breaking down the food. The bottom line here is that the foods we eat supply us with fuel in the form of calories but the body expends fuel in order to obtain the fuel within the foods.
+
+**REVIEW NOTES:**
+
+1. Carbohydrates release insulin.
+2. Insulin is a hormone with storage properties.
+3. In the absence of carbohydrates or with a low calorie diet, blood sugar levels decrease which increases the output of glucagon.
+4. Glucagon is a hormone with liberating properties.
+5. Proteins release insulin and glucagon.
+6. The glucagon released with protein foods is greater than the insulin release.
+7. The body expends fuel in trying to obtain fuel from the foods we eat.
+8. The body expends more fuel in obtaining fuel from protein, less with carbs and still even less with dietary fat.
+
+**Fats**
+
+Dietary fats have the greatest reputation as a fat storer though we, as Americans, have seemed to have switched our focus away from concentrating on dietary fat. These days, dieters focus on both carbs and fat.
+
+Each gram of dietary fat yields 9 calories while each gram of protein yields 4 and a gram of carbohydrate also yields 4 calories. Throwing in the body's "inefficiency" at obtaining 100% of the calories from the foods we eat, it is rather clear how the common adage "fat is more fattening than carbs or protein" came to be.
+
+Let's take a closer look at dietary fat versus dietary carbohydrates and dietary protein.
