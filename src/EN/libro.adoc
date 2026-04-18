@@ -1,0 +1,10 @@
+= Todo lo que necesitas saber sobre la pérdida de grasa
+
+Chris Aceto
+
+:doctype: book
+:toc: left
+:toc-title: Índice de contenidos
+:toclevels: 2
+
+include::/{docdir}/pagina_004.adoc[]
