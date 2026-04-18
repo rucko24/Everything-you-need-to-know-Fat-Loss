@@ -13,8 +13,19 @@ page:
 base:
   font_family: Roboto
   font_size: 11
-  line_height_length: 15
+  font_color: 222222
+  line_height: 1.4
+  line_height_length: 16
+vertical_spacing: 18
 heading:
   font_family: Roboto
+  font_color: 004466
   font_style: bold
-  color: 000000
+  margin_top: 40
+  margin_bottom: 16
+prose:
+  margin_bottom: 12
+toc:
+  title:
+    font_color: 004466
+  line_height: 1.3
