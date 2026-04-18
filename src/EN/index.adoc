@@ -1,0 +1,13 @@
+= Everything You Need To Know About Fat Loss
+Chris Aceto
+:doctype: book
+:toc: macro
+:toc-title: TABLE OF CONTENTS
+:toclevels: 2
+:sectnums:
+
+toc::[]
+
+include::page_006.adoc[]
+
+include::page_007.adoc[]
