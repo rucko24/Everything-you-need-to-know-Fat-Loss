@@ -7,6 +7,10 @@ Chris Aceto
 :sectnums:
 :front-cover-image: image:../../imgs/cover.png[background,width=100%,height=100%]
 :pdf-page-size: A4
+:line-height: 1.5
+:paragraph-indent: 0.2in
+:pdf-page-margin: [1in, 1in, 1in, 1in]
+:pdf-font-family: Helvetica
 
 toc::[]
 

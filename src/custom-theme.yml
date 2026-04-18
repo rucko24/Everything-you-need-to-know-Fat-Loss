@@ -1,0 +1,20 @@
+font:
+  catalog:
+    Roboto:
+      normal: Roboto-Regular.ttf
+      bold: Roboto-Bold.ttf
+      italic: Roboto-Italic.ttf
+      bold_italic: Roboto-BoldItalic.ttf
+  fallbacks:
+    - Roboto
+page:
+  layout: portrait
+  margin: [0.75in, 1in, 0.75in, 1in]
+base:
+  font_family: Roboto
+  font_size: 11
+  line_height_length: 15
+heading:
+  font_family: Roboto
+  font_style: bold
+  color: 000000
