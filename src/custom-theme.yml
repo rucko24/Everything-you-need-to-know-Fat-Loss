@@ -44,3 +44,5 @@ heading:
   margin_bottom: 16
 prose:
   margin_bottom: 12
+  text_indent_inner: 18
+  margin_inner: 12
