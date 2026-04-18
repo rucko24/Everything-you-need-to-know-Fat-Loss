@@ -8,6 +8,6 @@ Chris Aceto
 
 toc::[]
 
-include::page_006.adoc[]
+include::chapter-one.adoc[]
 
-include::page_007.adoc[]
+include::chapter-two.adoc[]
