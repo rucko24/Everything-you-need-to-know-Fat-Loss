@@ -40,10 +40,10 @@ Thinking about embarking on a low calorie and low protein diet? Think again. The
 
 image::../../imgs/Tissue-loss-associated-with-low-protein-low-calorie-instake.png[]
 
-1. Muscles breakdown and release amino acids
-2. Amino Acids are sent to the liver
-3. Liver changes amino acids into glucose (sugar)
-4. Glucose enters blood from the liver
+- 1. Muscles breakdown and release amino acids
+- 2. Amino Acids are sent to the liver
+- 3. Liver changes amino acids into glucose (sugar)
+- 4. Glucose enters blood from the liver
 
 [.text-center]
 **Result: Muscle Wastage!!!**
@@ -56,14 +56,14 @@ Where does the other 40 calories go? They're "wasted" or burned in breaking down
 
 **REVIEW NOTES:**
 
-1. Carbohydrates release insulin.
-2. Insulin is a hormone with storage properties.
-3. In the absence of carbohydrates or with a low calorie diet, blood sugar levels decrease which increases the output of glucagon.
-4. Glucagon is a hormone with liberating properties.
-5. Proteins release insulin and glucagon.
-6. The glucagon released with protein foods is greater than the insulin release.
-7. The body expends fuel in trying to obtain fuel from the foods we eat.
-8. The body expends more fuel in obtaining fuel from protein, less with carbs and still even less with dietary fat.
+- 1. Carbohydrates release insulin.
+- 2. Insulin is a hormone with storage properties.
+- 3. In the absence of carbohydrates or with a low calorie diet, blood sugar levels decrease which increases the output of glucagon.
+- 4. Glucagon is a hormone with liberating properties.
+- 5. Proteins release insulin and glucagon.
+- 6. The glucagon released with protein foods is greater than the insulin release.
+- 7. The body expends fuel in trying to obtain fuel from the foods we eat.
+- 8. The body expends more fuel in obtaining fuel from protein, less with carbs and still even less with dietary fat.
 
 **Fats**
 
