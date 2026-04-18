@@ -13,3 +13,5 @@ toc::[]
 include::chapter-one.adoc[]
 
 include::chapter-two.adoc[]
+
+include::chapter-three.adoc[]
