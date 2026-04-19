@@ -72,3 +72,31 @@ Dietary fats have the greatest reputation as a fat storer though we, as American
 Each gram of dietary fat yields 9 calories while each gram of protein yields 4 and a gram of carbohydrate also yields 4 calories. Throwing in the body's "inefficiency" at obtaining 100% of the calories from the foods we eat, it is rather clear how the common adage "fat is more fattening than carbs or protein" came to be.
 
 Let's take a closer look at dietary fat versus dietary carbohydrates and dietary protein.
+
+- 100 calories of fat at which 97% is "accessible" = 97 calories
+- 100 calories of carbohydrates at which 90% is "accessible" = 90 cal.
+- 100 calories of protein at which 80% is "accessible" = 80 calories
+
+As you can see, fat is "more fattening" than carbs or protein. Furthermore, **gram for gram,** fats produce more energy in the body than carbs or protein. For example, one gram of dietary fat yields 9 calories per gram while a gram of either carbohydrate or protein yields 4 calories per gram. A side by side comparison of 100 grams of fat, carbs or protein illustrates dietary fat is more calorically generous of the three.
+
+- 100 grams of fat at 9 calories per gram = 900 calories
+- 100 grams of carbohydrate at 4 calories per gram = 400 calories
+- 100 grams of protein at 4 calories per gram = 400 calories.
+
+Very simply, in terms of calories, you would have to eat 225 grams of protein or 225 grams of carbohydrates to yield the same calories found in 100 grams of dietary fat.
+
+- 100 grams of fat at 9 calories per gram = 900 calories
+- 225 grams of carbs at 4 calories per gram = 900 calories
+- 225 grams of protein at 4 calories per gram = 900 calories
+
+Yet another aspect to consider in trying to control total caloric intake is food volume. Fatty foods, which yield gram for gram more than 100% more calories than carbohydrates and protein, usually do not take up much "space" within the stomach. Nor are they visually voluminous. For example, 2 tablespoons of olive oil yield 228 calories while 4 inch by 4 inch potato yields the same amount of calories. And a large chicken breast would yield approximately the same number of total calories. Of the three, which is physically smaller in size and likely the one that would be easier to over eat? The oil.
+
+[.text-center]
+**Sugar: The Nitty Gritty**
+
+Back to carbohydrates. All carbohydrates foods we eat - whether a potato, a yam, a cup of rice, candy, or a can of soda - will ultimately be digested and absorbed into the blood stream as a simple sugar called glucose. Glucose is sometimes referred to as blood sugar. Glucose stimulates the pancreas to release the specialized storage hormone called insulin. And it is insulin's job to regulate "how much" glucose shall remain in the blood.
+*The total amount of insulin released is related to the concentration of glucose in the blood and the concentration is related to your total carbohydrate intake.*
+
+If there is a concentrated amount of glucose in the blood, in laymen's terms, "a lot of sugar in the blood" the pancreas responds by kicking out a large burst of insulin. If there is a moderate amount of glucose present in the blood, the pancreas responds by kicking out far less insulin. When there is is very small amounts of glucose in the blood, the pancreas puts out dramatically less insulin. In real world terms, eating a massive amount of carbohydrates from an overflowing plate of pasta would flood the blood stream with glucose and kick insulin levels through the roof. A moderate serving of pasta would increase insulin levels, but not nearly to the degree a larger plate would. And a small plate would also promote insulin secretion by the pancreas, albeit dramatically less than a massive plate of pasta and still less than a moderate plate. In all three cases, insulin clears sugar from the blood and deposits it into tissues. The tissues include your muscles, your liver and body fat stores. The first two locations aren't the real problem. When carbs are stored in muscle and liver, they can be readily accessed in between meals if sugar levels within the blood fall or they can be used during exercise. The latter of the three cites, fat stores, is the place the individual, in search of a lean body, hopes to avoid.
+
+We can classify carbohydrates as two main groups with a smaller sub group. The two main groups are simple
