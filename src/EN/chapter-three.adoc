@@ -107,3 +107,8 @@ carbohydrates and complex carbohydrates. Simple carbohydrates are sugars known a
 For example 100 calories of carbohydrates from a yam yields less total insulin than 100 calories of carbohydrates from pretzels.
 
 Simple carbohydrates are broken down, digested and absorbed with ease and speed compared to "more natural" carbs. The result of their ease to digest; glucose quickly accumulates in the blood stream and the pancreas reacts by dumping a large amount of insulin into the blood. **Again, the net amount of glucose in the blood at any period of time is directly related to the amount of insulin released.** With complex carbohydrates, the speed at which they enter the blood as glucose is slower because the body must cleave the longer chains of sugar, one by one, into smaller sub units of sugar, before they can ultimately become glucose.
+
+image::../../imgs/types-of-calories.png[]
+
+In terms of controlling body fat, the difference between simple and complex carbohydrates is the speed at which they enter the blood as glucose and the total amount of insulin that is released. As we will see, elevated insulin levels impact fat storage.
+While 200 calories of yams will illicit less insulin than 200 calories of a refined food such as pretzels or fat free potato chips, there is another aspect of complex carbs to consider. The more refined, processed or cooked the complex carbohydrate, the faster it breaks down into glucose which, in turn, effects insulin levels. Whole grain bread is processed
