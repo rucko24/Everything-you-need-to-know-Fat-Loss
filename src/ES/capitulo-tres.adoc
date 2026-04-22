@@ -109,3 +109,18 @@ Los carbohidratos simples se descomponen, digieren y absorben con facilidad y ra
 image::../../imgs/types-of-calories.png[]
 
 In terms of controlling body fat, the difference between simple and complex carbohydrates is the speed at which they enter the blood as glucose and the total amount of insulin that is released. As we will see, elevated insulin levels impact fat storage. While 200 calories of yams will illicit less insulin than 200 calories of a refined food such as pretzels or fat free potato chips, there is another aspect of complex carbs to consider. The more refined, processed or cooked the complex carbohydrate, the faster it breaks down into glucose which, in turn, effects insulin levels. Whole grain bread is processed
+
+en pan blanco. El arroz integral se transforma en arroz blanco y el maíz en copos de maíz. Una patata "asada" en un microondas, en general, es más firme que una asada en un horno convencional y el puré de patatas es claramente menos firme o "más blando" que una patata asada. ¿Cuál es el problema? Cuanto más procesado esté el carbohidrato y más blando sea, más fácil será digerirlo y cuanto más fácil sea digerirlo, mayor será el pico de insulina.
+
+**REVISIÓN**
+
+1) Los dos tipos de hidratos de carbono son los simples y los complejos.
+2) Los simples suelen ser "artificiales". Por ejemplo, las tartaletas, los pretzels o los caramelos sin grasa.
+3) Los complejos son "más naturales". Por ejemplo, los boniatos, el arroz salvaje y las patatas.
+4) Los carbohidratos simples provocan más insulina que los complejos.
+5) La insulina elevada influye en el almacenamiento de grasa.
+
+[.text-center]
+**La conexión de fibra**
+
+La fibra se ha promocionado como una herramienta prometedora para el control del peso, y con razón. La fibra se denomina "una sustancia alimentaria no digerible" común a los alimentos ricos en carbohidratos. Mientras que las principales categorías de hidratos de carbono se dividen en simples y complejos, los hidratos de carbono con fibra constituyen un tercer grupo independiente. Los carbohidratos de tipo fibra incluyen verduras crujientes y difíciles de masticar que no sólo son extremadamente bajas en calorías, ¡sino que esencialmente no tienen calorías! Esto se debe a que el organismo carece de las enzimas necesarias para descomponer la fibra y obtener las calorías que contiene el alimento. ¿El resultado de comer verduras con fibra? Pasan directamente por el organismo sin aportar calorías. De hecho, los hidratos de carbono con fibra pueden costarle calorías. He aquí cómo. Cuando comes, al cuerpo le cuesta calorías empezar a trabajar en los alimentos para descomponerlos y digerirlos. Cuando usted come una taza de verduras, el cuerpo trabaja para obtener el combustible de los alimentos. En el intento de obtener combustible de las verduras, se gastan calorías. Otra forma de
