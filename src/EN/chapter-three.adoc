@@ -117,11 +117,11 @@ into white bread. Brown rice is processed into white rice and corn is processed 
 
 **REVIEW**
 
-1) The two types of carbohydrates include simple and complex.
-2) Simple are usually "man made." Examples include fat free pop tarts, pretzels or candy.
-3) Complex are "more natural." Examples include yams, wild rice and potatoes.
-4) Simple carbs illicit more insulin than complex.
-5) Elevated insulin impact fat storage.
+- 1) The two types of carbohydrates include simple and complex.
+- 2) Simple are usually "man made." Examples include fat free pop tarts, pretzels or candy.
+- 3) Complex are "more natural." Examples include yams, wild rice and potatoes.
+- 4) Simple carbs illicit more insulin than complex.
+- 5) Elevated insulin impact fat storage.
 
 [.text-center]
 **The Fiber Connection**
@@ -143,3 +143,22 @@ Fiber has been touted as a promising tool in weight control and with good reason
 Vegetables obviously are beneficial in that they are very difficult to "over eat" and they make you feel satisfied. A person may find it relatively easy to gulp down 3 cups of pasta yielding 450 calories and approximately 135 grams of carbohydrates, yet would likely find it either more difficult or less pleasurable to chomp down 3 cups of broccoli yielding 120 calories and 30 grams of carbohydrates - all of which are unabsorbable as they are "locked within" the fiber - nature's "undigestible carb."
 
 The added benefit of fiber-type carbs is their effect on insulin. When complex or simple carbohydrates are combined with fiber-type vegetables, the speed at which the glucose from the complex or simple carbohydrates "hits" the blood stream is retarded. In effect, adding veggies to a complex or simple carb slows the rate at which glucose reaches the blood. If glucose enters the blood at a slower pace, the pancreas responds by outputting less insulin. A simple comparison; 200 calories of rice versus 200 calories of rice mixed with a cup of cauliflower. The rice-only meal will illicit a greater insulin burst than the rice-veggie combo. Fiber-type veggies act as a natural "time releasing" agent on simple or complex carbs
+
+and it is this time releasing effect that impacts insulin levels.
+
+The tiny amounts of fiber, or lack of fiber, in many complex carbohydrates effects insulin secretion. Wild rice contains small amounts of fiber compared to bleached white rice and real whole grain bread contains more fiber than white bread. While all are considered complex carbohydrates due to their long branching web of glucose molecules bound together, they are digested at different speeds due to varying fiber content. The white rice will digest faster than wild rice and therefore will kick insulin levels higher. Likewise, white bread, which is devoid of fiber, digests much faster than whole grain bread. The net result? White bread creates a greater insulin response than whole grain bread and the greater the insulin response, the greater the effect on the complex system that keeps you fat!
+
+In the full scope of things, total calories effect body fat levels as do the types of calories we eat. Carbs, protein and fat are unique in:
+
+- 1 Their calorie value.
+- 2 The body's ability to "access" those calories.
+- 3 Their effect on insulin levels.
+
+[.text-center]
+**Sugar, Insulin and Fat Dynamics**
+
+Insulin has positive and negative effects on the body. In terms of controlling body fat, the ultimate success one achieves depends on total calorie intake and the hormones effected by the types of calories we eat.
+
+Elevated insulin levels for the person hoping to control body fat is, possibly, as detrimental as total caloric intake. High or elevated insulin levels result from overeating carbohydrate foods - either complex carbs or simple carbs. When you overeat carbohydrates, you increase the amount of glucose in the blood above 110 which promotes an insulin burst which drags the excess sugar out of the blood allowing glucose levels to return to normal, around 70 to 110.
+
+Here's the tough part. It is possible to stay within your caloric limits and create an environment where insulin levels

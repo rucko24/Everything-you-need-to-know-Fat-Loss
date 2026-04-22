@@ -114,11 +114,11 @@ en pan blanco. El arroz integral se transforma en arroz blanco y el maíz en cop
 
 **REVISIÓN**
 
-1) Los dos tipos de hidratos de carbono son los simples y los complejos.
-2) Los simples suelen ser "artificiales". Por ejemplo, las tartaletas, los pretzels o los caramelos sin grasa.
-3) Los complejos son "más naturales". Por ejemplo, los boniatos, el arroz salvaje y las patatas.
-4) Los carbohidratos simples provocan más insulina que los complejos.
-5) La insulina elevada influye en el almacenamiento de grasa.
+- 1) Los dos tipos de hidratos de carbono son los simples y los complejos.
+- 2) Los simples suelen ser "artificiales". Por ejemplo, las tartaletas, los pretzels o los caramelos sin grasa.
+- 3) Los complejos son "más naturales". Por ejemplo, los boniatos, el arroz salvaje y las patatas.
+- 4) Los carbohidratos simples provocan más insulina que los complejos.
+- 5) La insulina elevada influye en el almacenamiento de grasa.
 
 [.text-center]
 **La conexión de fibra**
@@ -140,3 +140,21 @@ La fibra se ha promocionado como una herramienta prometedora para el control del
 Evidentemente, las verduras son beneficiosas en el sentido de que es muy difícil "comerlas en exceso" y hacen que uno se sienta satisfecho. A una persona puede resultarle relativamente fácil engullir 3 tazas de pasta, que aportan 450 calorías y aproximadamente 135 gramos de hidratos de carbono, pero probablemente le resulte más difícil o menos placentero engullir 3 tazas de brócoli, que aportan 120 calorías y 30 gramos de hidratos de carbono, todos ellos inabsorbibles al estar "encerrados" en la fibra, el "carbohidrato no digerible" de la naturaleza.
 
 El beneficio añadido de los carbohidratos tipo fibra es su efecto sobre la insulina. Cuando los carbohidratos complejos o simples se combinan con verduras de tipo fibra, se retrasa la velocidad a la que la glucosa de los carbohidratos complejos o simples "llega" al torrente sanguíneo. En efecto, añadir verduras a un carbohidrato complejo o simple ralentiza la velocidad a la que la glucosa llega a la sangre. Si la glucosa entra en la sangre a un ritmo más lento, el páncreas responde produciendo menos insulina. Una comparación sencilla: 200 calorías de arroz frente a 200 calorías de arroz mezclado con una taza de coliflor. La comida a base de arroz provocará una mayor explosión de insulina que la combinación de arroz y verduras. Las verduras con fibra actúan como un agente "liberador de tiempo" natural de los carbohidratos simples o complejos.
+
+y es este efecto de liberación de tiempo el que influye en los niveles de insulina.
+
+Las pequeñas cantidades de fibra, o la falta de fibra, en muchos carbohidratos complejos afectan a la secreción de insulina. El arroz salvaje contiene pequeñas cantidades de fibra en comparación con el arroz blanco blanqueado y el verdadero pan integral contiene más fibra que el pan blanco. Aunque todos se consideran hidratos de carbono complejos debido a su larga red ramificada de moléculas de glucosa unidas entre sí, se digieren a diferentes velocidades debido a su contenido variable en fibra. El arroz blanco se digerirá más rápido que el arroz salvaje y, por tanto, elevará los niveles de insulina. Del mismo modo, el pan blanco, que carece de fibra, se digiere mucho más rápido que el pan integral. ¿El resultado neto? El pan blanco crea una mayor respuesta de insulina que el pan integral y cuanto mayor es la respuesta de insulina, mayor es el efecto sobre el complejo sistema que te mantiene gordo.
+In the full scope of things, total calories effect body fat levels as do the types of calories we eat. Carbs, protein and fat are unique in:
+
+- 1 Su valor calórico.
+- 2 La capacidad del organismo para "acceder" a esas calorías.
+- 3 Su efecto sobre los niveles de insulina.
+
+[.text-center]
+**Dinámica del azúcar, la insulina y las grasas**
+
+La insulina tiene efectos positivos y negativos en el organismo. En lo que respecta al control de la grasa corporal, el éxito final depende de la ingesta total de calorías y de las hormonas afectadas por los tipos de calorías que ingerimos.
+
+Los niveles elevados de insulina para la persona que espera controlar la grasa corporal son, posiblemente, tan perjudiciales como la ingesta calórica total. Los niveles altos o elevados de insulina son el resultado de comer en exceso carbohidratos, ya sean carbohidratos complejos o simples. Cuando comes carbohidratos en exceso, aumentas la cantidad de glucosa en sangre por encima de 110, lo que promueve una explosión de insulina que arrastra el exceso de azúcar fuera de la sangre permitiendo que los niveles de glucosa vuelvan a la normalidad, alrededor de 70 a 110.
+
+Esta es la parte difícil. Es posible mantenerse dentro de los límites calóricos y crear un entorno en el que los niveles de insulina
