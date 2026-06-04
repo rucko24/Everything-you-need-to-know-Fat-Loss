@@ -171,4 +171,17 @@ However, high insulin levels, the result of eating above your caloric requiremen
 
 High insulin levels also effect the appetite center in the brain. Rats injected with high levels of insulin will eat until their stomach explode while rats that have the pancreas removed (which manufactures insulin) will refuse to eat and starve to death. *In high amounts, insulin is an appetite stimulant.*
 
-High insulin levels also exert other interesting metabolic effects encouraging fat storage and preventing the liberation
+High insulin levels also exert other interesting metabolic effects encouraging fat storage and preventing the liberation.
+
+of fatty acids from body fat stores. When insulin levels rise, it triggers the release of an enzyme called *lipoprotein lipase (LPL).* LPL retards the fat cells and prevents them from being broken apart to be used up as fuel. In effect, we could say *LPL blocks fat cell breakdown and LPL is stimulated with high levels of insulin.*
+
+The body is always using a mixture of fuel sources when at rest. Primarily, fat is used in a resting body. A distant second is glucose. Some of this fat comes from the dietary fat we eat while the majority comes from fat cells. *If insulin levels are chronically elevated* due to eating more calories than you need each day or from eating a moderate caloric intake that is abundant in simple carbohydrates and devoid in fiber, *fat cells are sealed off and prevented from being used as fuel.* In fact, so effective is insulin in sealing off fat cells, that even those engaged in heavy aerobic exercise will find serious fat loss difficult if not nearly impossible unless insulin levels are controlled.
+
+*REVIEW*
+
+- 1) Elevated insulin is due to excessive calories.
+- 2) Elevated insulin is due to simple carbohydrates with little or no fiber - even if total calories are not excessive.
+- 3) Elevated insulin will store carbohydrates as body fat when muscle and liver stores for glycogen are full.
+- 4) Elevated insulin increases lipoprotein lipase which prevents fatty acids from leaving fat cells.
+
+Interestingly, the pancreas which is responsible for releasing insulin also releases an opposing hormone called glucagon. It's job is related to that of insulin. It regulates glucose levels in the blood. While insulin clears glucose out of the blood as glucose levels rise, glucagon increases glucose levels in the blood when glucose levels drop. When calories are low or when carbohydrates are temporarily lacking in the diet, glucose levels either approach the 70 level or fall below 70. At this point, glucagon is released. Glucagon calls upon the the storage cites for glucose, the liver and muscles, to

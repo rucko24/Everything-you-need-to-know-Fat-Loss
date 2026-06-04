@@ -158,3 +158,18 @@ La insulina tiene efectos positivos y negativos en el organismo. En lo que respe
 Los niveles elevados de insulina para la persona que espera controlar la grasa corporal son, posiblemente, tan perjudiciales como la ingesta calórica total. Los niveles altos o elevados de insulina son el resultado de comer en exceso carbohidratos, ya sean carbohidratos complejos o simples. Cuando comes carbohidratos en exceso, aumentas la cantidad de glucosa en sangre por encima de 110, lo que promueve una explosión de insulina que arrastra el exceso de azúcar fuera de la sangre permitiendo que los niveles de glucosa vuelvan a la normalidad, alrededor de 70 a 110.
 
 Esta es la parte difícil. Es posible mantenerse dentro de los límites calóricos y crear un entorno en el que los niveles de insulina
+
+Los niveles elevados de insulina también tienen otros efectos metabólicos interesantes, ya que favorecen el almacenamiento de grasa e impiden su liberación.
+
+de los ácidos grasos almacenados en el tejido adiposo. Cuando los niveles de insulina aumentan, se desencadena la liberación de una enzima llamada lipoproteína lipasa (LPL). La LPL frena las células adiposas y evita que se descompongan para ser utilizadas como combustible. En efecto, podríamos decir que la LPL bloquea la descomposición de las células adiposas y que la LPL se estimula con niveles elevados de insulina.
+
+El cuerpo siempre utiliza una combinación de fuentes de energía cuando está en reposo. La grasa es la principal fuente de energía en un cuerpo en reposo. En segundo lugar, muy por detrás, se encuentra la glucosa. Parte de esta grasa proviene de la grasa de la dieta que consumimos, mientras que la mayor parte procede de las células adiposas. Si los niveles de insulina están crónicamente elevados debido a un consumo diario de calorías superior al necesario o a una ingesta calórica moderada pero rica en carbohidratos simples y pobre en fibra, las células adiposas quedan aisladas y no pueden utilizarse como combustible. De hecho, la insulina es tan eficaz a la hora de aislar las células adiposas que incluso quienes realizan ejercicio aeróbico intenso tendrán dificultades para perder grasa de forma significativa, si no es que les resulte casi imposible, a menos que se controlen los niveles de insulina.
+
+*REVISIÓN*
+
+- 1) Los niveles elevados de insulina se deben a un exceso de calorías.
+- 2) Los niveles elevados de insulina se deben al consumo de carbohidratos simples con poca o ninguna fibra, incluso si el aporte calórico total no es excesivo.
+- 3) Cuando los depósitos de glucógeno de los músculos y el hígado están llenos, los niveles elevados de insulina provocan que los hidratos de carbono se almacenen en forma de grasa corporal.
+- 4) Los niveles elevados de insulina aumentan la lipoproteína lipasa, lo que impide que los ácidos grasos salgan de las células adiposas.
+
+Curiosamente, el páncreas, que se encarga de liberar insulina, también libera una hormona opuesta llamada glucagón. Su función está relacionada con la de la insulina: regula los niveles de glucosa en sangre. Mientras que la insulina elimina la glucosa de la sangre cuando los niveles de glucosa aumentan, el glucagón aumenta los niveles de glucosa en sangre cuando estos bajan. Cuando la ingesta calórica es baja o cuando hay una carencia temporal de carbohidratos en la dieta, los niveles de glucosa se acercan al nivel de 70 o caen por debajo de 70. En ese momento, se libera glucagón. El glucagón recurre a los depósitos de glucosa, el hígado y los músculos, para
